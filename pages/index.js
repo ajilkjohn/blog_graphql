@@ -9,6 +9,7 @@ function Home({ posts}) {
   return (
     <div className="container mx-auto px-10 mb-8 ">
       <Head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>kv bLOG</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
